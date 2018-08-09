@@ -1,1 +1,8 @@
+# Site settings
+title: 顾柴的土地
+email: guchainews@sina.com
+description: > # this means to ignore newlines until "baseurl:"
+  顾柴的土地
+  
+  
 theme: jekyll-theme-time-machine
